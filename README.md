@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Jing-Han** ,an interior designer who's transitioning into Web Engineering.
 - 👀 I’m working on building projects and my portfolio website.
-- 🌱 I’m currently learning Learning Web💻 Development
+- 🌱 I’m currently learning Web💻 Development
 - 📫 How to reach me <a href="mailto:yang8006yang@gamil.com">Mail📧</a>
 
 <!---
